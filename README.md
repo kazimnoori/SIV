@@ -2,7 +2,8 @@
 This repository contains the first website I have built. I have made this website for a group of Afghan immigrants who came to the US via Special Immigrant Visa (SIV) program. The document templates on this website will help those  who are eligible for the SIV program and have difficulties preparing their application packages. I also have a Facebook page with more than 17 thousand member to help this group of Afghan immigrants.
 
 
-
+## How to View the Website?
+To view the finished project, double click on the index.html file.
 
 ## The Data for the Chart:
 I got the data for the chart from the Refugee Processing Center (RPC) website. 
