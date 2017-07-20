@@ -1,3 +1,9 @@
+@media screen and (min-width: 300px) {
+  body {
+    text-align: left;
+  }
+}
+
 @media screen and (min-width: 480px) {
 
 nav ul li {
@@ -17,15 +23,6 @@ body {
   float: right;
  }
 
-}
-
-/*********************
-TEXT ALIGNMENT ON SMALL SCREENS
-**********************/
-@media screen and (min-width: 300px) {
-  body {
-    text-align: left;
-  }
 }
 
 
@@ -65,6 +62,9 @@ TEXT ALIGNMENT ON SMALL SCREENS
     margin-bottom: 60px;
   }
   
+  body {
+    text-align: justify;
+  }
 }
 
 
