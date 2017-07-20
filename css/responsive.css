@@ -4,6 +4,9 @@ nav ul li {
   display: inline-block;
 }
 
+body {
+  text-align: left;
+}
 #primary {
   width: 50%;
   float: left;
@@ -14,6 +17,15 @@ nav ul li {
   float: right;
  }
 
+}
+
+/*********************
+TEXT ALIGNMENT ON SMALL SCREENS
+**********************/
+@media screen and (min-width: 300px) {
+  body {
+    text-align: left;
+  }
 }
 
 
